@@ -246,6 +246,7 @@ nav:
   - máscara de capa:          layer_mask.md
   - brocha:                   brush.md
   - regla (brocha):           ruler_brush.md
+  - brocha de curva:          curve_brush.md
   - pintar con varias formas(rectángulo, circulo, lazo, polígono): paint_with_shapes.md
   - transformar:              transform.md
   - capa vectorial:           vector_layer.md
